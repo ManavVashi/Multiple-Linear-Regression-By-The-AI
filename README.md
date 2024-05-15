@@ -6,5 +6,7 @@ I try to make it as simple as possible.
 
 If you want to see only the applied approach then visit multiple-linear-regression-sci-kit-learn.ipynb notebook
 If you want to see how Linear Regression works then you can check linear-regression-code-from-0th-level.ipynb notebook
+If you want one complete model building guide on a data set from level 0 then check used-car-price-prediction.ipynb notebook
 
-Note:- For the task, I didn't use any external dataset, I created a dataset using sci-kit learn.
+Note:- This Repository is under heavy development, stay tuned for continuous update, Thank You
+
